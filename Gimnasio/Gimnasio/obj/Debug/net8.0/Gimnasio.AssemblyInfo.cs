@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gimnasio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75118b02baf397284afd94dc9a930f7c2350cb75")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gimnasio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gimnasio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
