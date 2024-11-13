@@ -42,13 +42,13 @@ namespace GymManagement.Controllers
             return _usuarios.Where(u => u.Tipo == userType).ToList();
         }
 
-        // Agregar un nuevo usuario al sistema.
+        // Agregar un nuevo usuario al sistema
         public void AddUser(Usuario newUser)
         {
             _usuarios.Add(newUser);
         }
 
-        // Buscar un usuario por ID.
+        // Buscar un usuario por ID
         public Usuario GetUserById(int id)
         {
             return _usuarios.FirstOrDefault(u => u.Id == id);
