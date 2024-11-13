@@ -48,7 +48,7 @@ namespace GymManagement.Controllers
             _usuarios.Add(newUser);
         }
 
-        // Buscar un usuario por ID
+        // Buscar un usuario por ID.
         public Usuario GetUserById(int id)
         {
             return _usuarios.FirstOrDefault(u => u.Id == id);
