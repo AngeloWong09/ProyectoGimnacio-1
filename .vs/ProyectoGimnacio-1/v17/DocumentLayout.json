@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Gimnasio\\Gimnasio\\Controllers\\Usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dell\\source\\repos\\AngeloWong09\\ProyectoGimnacio-1\\Gimnasio\\Gimnasio\\Gimnasio.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Gimnasio\\Gimnasio\\Gimnasio.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dell\\source\\repos\\AngeloWong09\\ProyectoGimnacio-1\\Gimnasio\\Gimnasio\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Gimnasio\\Gimnasio\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,22 +32,22 @@
               "RelativeDocumentMoniker": "Gimnasio\\Gimnasio\\Controllers\\Usuarios.cs",
               "ToolTip": "C:\\Users\\dell\\source\\repos\\AngeloWong09\\ProyectoGimnacio-1\\Gimnasio\\Gimnasio\\Controllers\\Usuarios.cs",
               "RelativeToolTip": "Gimnasio\\Gimnasio\\Controllers\\Usuarios.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAAAmAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACYAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T21:14:24.037Z",
+              "WhenOpened": "2024-11-13T21:39:50.737Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Gimnasio.csproj.user",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\AngeloWong09\\ProyectoGimnacio-1\\Gimnasio\\Gimnasio\\Gimnasio.csproj.user",
-              "RelativeDocumentMoniker": "Gimnasio\\Gimnasio\\Gimnasio.csproj.user",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\AngeloWong09\\ProyectoGimnacio-1\\Gimnasio\\Gimnasio\\Gimnasio.csproj.user",
-              "RelativeToolTip": "Gimnasio\\Gimnasio\\Gimnasio.csproj.user",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
-              "WhenOpened": "2024-11-13T20:53:51.839Z",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\AngeloWong09\\ProyectoGimnacio-1\\Gimnasio\\Gimnasio\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Gimnasio\\Gimnasio\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\AngeloWong09\\ProyectoGimnacio-1\\Gimnasio\\Gimnasio\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Gimnasio\\Gimnasio\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T21:39:34.971Z",
               "EditorCaption": ""
             }
           ]
