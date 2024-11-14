@@ -13,10 +13,10 @@ namespace GymManagement.Controllers
             _usuarios = LoadInitialUsers();
         }
 
-        // Método para cargar usuarios segun entendi pero mejor vemos la clase de nuevo
+        // Método para cargar usuarios segun entendi pero mejor vemos la clase de nuevo.
         private List<Usuario> LoadInitialUsers()
         {
-            // Datos de ejemplo porque tenemos que cargarlos como dijo el profe
+            // Datos de ejemplo porque tenemos que cargarlos como dijo el profe.
             return new List<Usuario>
             {
                 new Usuario(1, "Yostin Luna", UserType.Cliente, new List<string> { "Lunes 9:00-10:00", "Miércoles 11:00-12:00" }, new List<string>()),
@@ -30,25 +30,25 @@ namespace GymManagement.Controllers
             };
         }
 
-        // Obtener todos los usuarios
+        // Obtener todos los usuarios.
         public List<Usuario> GetAllUsers()
         {
             return _usuarios;
         }
 
-        // Separamos los usuarios por tipo si son Cliente o Entrenador
+        // Separamos los usuarios por tipo si son Cliente o Entrenador.
         public List<Usuario> GetUsersByType(UserType userType)
         {
             return _usuarios.Where(u => u.Tipo == userType).ToList();
         }
 
-        // Agregar un nuevo usuario al sistema
+        // Agregar un nuevo usuario al sistema.
         public void AddUser(Usuario newUser)
         {
             _usuarios.Add(newUser);
         }
 
-        // Buscar un usuario por ID
+        // Buscar un usuario por ID..
         public Usuario GetUserById(int id)
         {
             return _usuarios.FirstOrDefault(u => u.Id == id);
