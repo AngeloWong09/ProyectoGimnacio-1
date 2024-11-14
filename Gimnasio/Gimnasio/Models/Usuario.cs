@@ -27,4 +27,4 @@ namespace GymManagement.Models
             PuntosFuertes = puntosFuertes;
         }
     }
-}
+}//Hola
