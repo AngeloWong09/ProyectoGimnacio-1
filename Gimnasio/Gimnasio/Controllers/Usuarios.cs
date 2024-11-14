@@ -30,19 +30,19 @@ namespace GymManagement.Controllers
             };
         }
 
-        // Obtener todos los usuarios.
+        // Obtener todos los usuarios..
         public List<Usuario> GetAllUsers()
         {
             return _usuarios;
         }
 
-        // Separamos los usuarios por tipo si son Cliente o Entrenador.
+        // Separamos los usuarios por tipo si son Cliente o Entrenador..
         public List<Usuario> GetUsersByType(UserType userType)
         {
             return _usuarios.Where(u => u.Tipo == userType).ToList();
         }
 
-        // Agregar un nuevo usuario al sistema.
+        // Agregar un nuevo usuario al sistema..
         public void AddUser(Usuario newUser)
         {
             _usuarios.Add(newUser);
